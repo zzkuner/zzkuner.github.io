@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://blog.zzk.zone</id>
+    <id>http://www.zzkun.tk</id>
     <title>zzk.zone</title>
-    <updated>2020-02-15T04:58:39.818Z</updated>
+    <updated>2020-02-15T05:06:00.632Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://blog.zzk.zone"/>
-    <link rel="self" href="http://blog.zzk.zone/atom.xml"/>
+    <link rel="alternate" href="http://www.zzkun.tk"/>
+    <link rel="self" href="http://www.zzkun.tk/atom.xml"/>
     <subtitle>张泽坤个人博客</subtitle>
-    <logo>http://blog.zzk.zone/images/avatar.png</logo>
-    <icon>http://blog.zzk.zone/favicon.ico</icon>
+    <logo>http://www.zzkun.tk/images/avatar.png</logo>
+    <icon>http://www.zzkun.tk/favicon.ico</icon>
     <rights>All rights reserved 2020, zzk.zone</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>http://blog.zzk.zone/post/hello-gridea</id>
-        <link href="http://blog.zzk.zone/post/hello-gridea">
+        <id>http://www.zzkun.tk/post/hello-gridea</id>
+        <link href="http://www.zzkun.tk/post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
